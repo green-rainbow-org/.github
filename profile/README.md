@@ -1,6 +1,7 @@
 # Welcome to the Web Committee
 
 Help build the Web presence of the [Green-Rainbow Party][home]!
+
 [Join GitHub](https://github.com/signup) and request access to participate.
 
 # [Join the Discussions](https://github.com/orgs/green-rainbow-org/discussions)
