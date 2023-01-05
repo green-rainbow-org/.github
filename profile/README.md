@@ -12,11 +12,12 @@ Help build the Web presence of the [Green-Rainbow Party][home]!
 ## [❓Polls](https://github.com/orgs/green-rainbow-org/discussions/categories/vote-on-goals-and-features)
 ## [❗Q&A ](https://github.com/orgs/green-rainbow-org/discussions/categories/website-help-q-a)
 
-# [Detailed Progress](https://github.com/orgs/green-rainbow-org/projects/1/views/1)
+# [Detailed Progress][view]
 
-View the project and [**track the progress**][track] of new features and content uploads.
+[**View the project**][view] and [**track the progress**][track] of new features and content uploads.
 
 [Join GitHub](https://github.com/signup) and ask John for access to see anything.
 
 [home]: https://green-rainbow.org
+[view]: https://github.com/orgs/green-rainbow-org/projects/1/views/1
 [track]: https://github.com/orgs/green-rainbow-org/projects/1/views/2?pane=item&itemId=17445860
