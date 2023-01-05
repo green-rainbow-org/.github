@@ -10,7 +10,8 @@ Help build the Web presence of the [Green-Rainbow Party][home]!
 ## [❓Polls](https://github.com/orgs/green-rainbow-org/discussions/categories/vote-on-goals-and-features)
 ## [❗Q&A ](https://github.com/orgs/green-rainbow-org/discussions/categories/website-help-q-a)
 
-# [Ongoing Progress](https://github.com/orgs/green-rainbow-org/projects/1/views/1)
 # [Subscribe to Issues](https://github.com/orgs/green-rainbow-org/projects/1/views/2?pane=item&itemId=17445860)
+# [Detailed Progress](https://github.com/orgs/green-rainbow-org/projects/1/views/1)
+
 
 [home]: https://green-rainbow.org
