@@ -1,3 +1,7 @@
+# Welcome to the Web Committee
+
+Help build the Web presence of the [Green-Rainbow Party][home]!
+
 # [Join the Discussions](https://github.com/orgs/green-rainbow-org/discussions)
 
 ## [🔈 Communications](https://github.com/orgs/green-rainbow-org/discussions/categories/communications-committee)
@@ -8,3 +12,5 @@
 
 # [Ongoing Progress](https://github.com/orgs/green-rainbow-org/projects/1/views/1)
 # [Subscribe to Issues](https://github.com/orgs/green-rainbow-org/projects/1/views/2?pane=item&itemId=17445860)
+
+[home]: https://green-rainbow.org
