@@ -14,8 +14,9 @@ Help build the Web presence of the [Green-Rainbow Party][home]!
 
 # [Detailed Progress](https://github.com/orgs/green-rainbow-org/projects/1/views/1)
 
-View the project and track the progress of new features and content uploads.
+View the project and [**track the progress**][track] of new features and content uploads.
 
 [Join GitHub](https://github.com/signup) and ask John for access to see anything.
 
 [home]: https://green-rainbow.org
+[track]: https://github.com/orgs/green-rainbow-org/projects/1/views/2?pane=item&itemId=17445860
