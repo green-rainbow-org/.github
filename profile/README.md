@@ -6,9 +6,9 @@ Help build the Web presence of the [Green-Rainbow Party][home]!
 
 # [Join the Discussions](https://github.com/orgs/green-rainbow-org/discussions)
 
-## [🔈 Actionable Goals](https://github.com/orgs/green-rainbow-org/discussions/categories/0-making-goals-actionable)
 ## [🧑‍🤝‍🧑 Target Users + Needs](https://github.com/orgs/green-rainbow-org/discussions/categories/1-target-users-needs)
 ## [🏠 Homepage Features](https://github.com/orgs/green-rainbow-org/discussions/categories/2-homepage-features)
+## [🏁 Actionable Goals](https://github.com/orgs/green-rainbow-org/discussions/categories/actionable-goals)
 ## [🕸️ Tech](https://github.com/orgs/green-rainbow-org/discussions/categories/tech-committee)
 ## [❓Polls](https://github.com/orgs/green-rainbow-org/discussions/categories/vote-on-goals-and-features)
 ## [❗Q&A ](https://github.com/orgs/green-rainbow-org/discussions/categories/website-help-q-a)
