@@ -2,8 +2,6 @@
 
 Help build the Web presence of the [Green-Rainbow Party][home]!
 
-### First, [Join GitHub](https://github.com/signup), then ask John for access.
-
 # [Join the Discussions](https://github.com/orgs/green-rainbow-org/discussions)
 
 ## [🧑‍🤝‍🧑 Target Users + Needs](https://github.com/orgs/green-rainbow-org/discussions/categories/1-target-users-needs)
