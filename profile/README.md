@@ -1,5 +1,7 @@
 # Welcome to the Web Committee
 
+### Check out [this project tutorial](https://github.com/orgs/green-rainbow-org/discussions/15) and [this discussions tutorial](https://github.com/orgs/green-rainbow-org/discussions/14)!
+
 Help build the Web presence of the [Green-Rainbow Party][home]!
 
 # [Join the Discussions](https://github.com/orgs/green-rainbow-org/discussions)
