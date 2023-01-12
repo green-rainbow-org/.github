@@ -6,18 +6,18 @@ Help build the Web presence of the [Green-Rainbow Party][home]!
 
 # [Join the Discussions](https://github.com/orgs/green-rainbow-org/discussions)
 
-## [🔈 Communications](https://github.com/orgs/green-rainbow-org/discussions/categories/communications-committee)
-## [🧑‍🤝‍🧑 Membership](https://github.com/orgs/green-rainbow-org/discussions/categories/membership-committee)
+## [🔈 Actionable Goals](https://github.com/orgs/green-rainbow-org/discussions/categories/0-making-goals-actionable)
+## [🧑‍🤝‍🧑 Target Users + Needs](https://github.com/orgs/green-rainbow-org/discussions/categories/1-target-users-needs)
+## [🏠 Homepage Features](https://github.com/orgs/green-rainbow-org/discussions/categories/2-homepage-features)
 ## [🕸️ Tech](https://github.com/orgs/green-rainbow-org/discussions/categories/tech-committee)
 ## [❓Polls](https://github.com/orgs/green-rainbow-org/discussions/categories/vote-on-goals-and-features)
 ## [❗Q&A ](https://github.com/orgs/green-rainbow-org/discussions/categories/website-help-q-a)
 
 # [Detailed Progress][view]
 
-[**View the project**][view] and [**track the progress**][track] of new features and content uploads.
+[**View the project**][view] and track new features and content uploads.
 
 [Join GitHub](https://github.com/signup) and ask John for access to see anything.
 
 [home]: https://green-rainbow.org
 [view]: https://github.com/orgs/green-rainbow-org/projects/1/views/1
-[track]: https://github.com/orgs/green-rainbow-org/projects/1/views/2?pane=item&itemId=17445860
