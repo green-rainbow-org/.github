@@ -1,4 +1,4 @@
-# Welcome to the Web Committee
+# Welcome to the Web Subcommittee
 
 ### Check out [this project tutorial][proj] and [this discussions tutorial][disc]!
 
